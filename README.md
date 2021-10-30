@@ -1,8 +1,9 @@
 ### Hi there 👋 My name is Dmitriy
 
-###I'm AQA Engineer
+### I'm AQA Engineer
 ******
-#If You need to contact me
+### If You need to contact me  
+
 Telegram: https://t.me/Dmitriy_G_S
 ******
 My skills
